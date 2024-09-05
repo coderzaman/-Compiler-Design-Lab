@@ -1,0 +1,1 @@
+https://github.com/coderzaman/Check-if-a-given-string-is-a-comment-or-not
